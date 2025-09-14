@@ -1,0 +1,6 @@
+pandas
+prophet
+openpyxl
+sqlalchemy
+psycopg2-binary
+
