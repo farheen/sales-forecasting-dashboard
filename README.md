@@ -2,10 +2,10 @@
 
 ```mermaid
 flowchart LR
-    A[📊 Data Source\n(Excel - Online Retail II)] --> B[🐍 Python\nETL + Forecasting (Prophet)]
-    B --> C[💾 Cleaned Data\n(actuals.csv, forecast.csv)]
-    C --> D[📈 Power BI Dashboard\n(Trends, KPIs, Forecast)]
-    D --> E[🌐 Embedded Dashboard\n(on Website)]
+    A[Data Source (Excel - Online Retail II)] --> B[Python ETL + Forecasting (Prophet)]
+    B --> C[Cleaned Data (actuals.csv, forecast.csv)]
+    C --> D[Power BI Dashboard (Trends, KPIs, Forecast)]
+    D --> E[Embedded Dashboard (Website iframe)]
     
     A:::data
     B:::process
