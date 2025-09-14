@@ -1,4 +1,4 @@
-## 🏗️ Project Architecture (Schematic)
+## Project Architecture (Schematic)
 
 ```mermaid
 flowchart LR
